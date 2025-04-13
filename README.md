@@ -7,7 +7,7 @@
 🌱 I am currently teaching Information Technology courses in the Certificate, Diploma and Bachelor levels, namely, Information Technology Operations, Technical Support and Communications and Technical Writing  
   
 
-❓ Ask me about anything related to predictive and agile project management  
+❓ Ask me about anything related to systems development and integration.
   
 
 <br/>  
