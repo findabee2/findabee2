@@ -4,7 +4,7 @@
 🏆 As a seasoned Information Technology professional, I have a proven track record of collaborating with users, business managers, IT specialists, and organisational leaders to design and deliver cutting-edge technology solutions. My expertise encompasses information systems development, network infrastructure implementation, and the management of large-scale information systems development, integration, and digitalisation projects. I leverage the creativity of people, the power of technology, data, and digital tools to drive innovation and efficiency. Let's connect and explore how we can collaborate to drive technological advancements and achieve your business goals.
   
 
-🌱 At the Centre for IT at Wintec in Hamilton, New Zealand, I am currently teaching Information Technology courses in the Certificate, Diploma and Degree levels.
+🌱 I currently teach Information Technology courses at the Certificate, Diploma and Degree levels at the Centre for IT at Wintec in Hamilton, New Zealand.
   
 
 ❓ Ask me about anything related to information systems development and integration.
