@@ -1,16 +1,14 @@
-### <div align="center">Hello, my name is Josh, and I am an Information Technology Educator teaching at the Centre for IT, at Wintec in Hamilton, New Zealand.</div>  
-  
+### Hi, I'm James! 
+ 
+👋 I'm an Information Technology Educator at the Centre for IT, Wintec in Hamilton, New Zealand, where I teach across Certificate, Diploma, and Degree levels. 
 
-🏆 As a seasoned Information Technology professional, I have a proven track record of collaborating with users, business managers, IT specialists, and organisational leaders to design and deliver cutting-edge technology solutions. My expertise encompasses information systems development, network infrastructure implementation, and the management of large-scale information systems development, integration, and digitalisation projects. I leverage the creativity of people, the power of technology, data, and digital tools to drive innovation and efficiency. Let's connect and explore how we can collaborate to drive technological advancements and achieve your business goals.
-  
+🌱 With a wealth of experience in the IT field, I specialize in information systems development, network infrastructure, and digital transformation. Over the years, I've collaborated with professionals across various sectors—business managers, IT experts, and organizational leaders—to craft innovative technology solutions that drive efficiency and growth.
 
-🌱 I currently teach Information Technology courses at the Certificate, Diploma and Degree levels at the Centre for IT at Wintec in Hamilton, New Zealand.
-  
+I believe in the power of people, technology, and data to foster creativity and solve real-world challenges. I'm passionate about helping teams leverage these elements to achieve impactful results.
 
-❓ Ask me about anything related to information systems development and integration.
-  
-
-<br/>  
+🚀 Whether you're interested in information systems development, integration, or project management, feel free to reach out! Let's explore how we can collaborate to achieve your tech goals. 
+ 
+ <br/>  
 
 
 ## My Skill Set  
