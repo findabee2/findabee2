@@ -1,7 +1,7 @@
 ### <div align="center">Hello, my name is Josh, and I am a full-time Information Technology Educator teaching at the Centre for IT, at Wintec in Hamilton, New Zealand.</div>  
   
 
-🏆 I am an experienced Information Technology professional with a proven track record of collaborating with users, business managers, IT specialists, and organisational leaders to design and deliver cutting-edge technology solutions. My expertise spans software application development, network infrastructure implementation, and the management of large-scale software development, software systems integration, and digitalisation projects that harness the power of technology, data, and digital tools.
+🏆 I am an experienced Information Technology professional with a proven track record of collaborating with users, business managers, IT specialists, and organisational leaders to design and deliver cutting-edge technology solutions. My expertise spans software application development, network infrastructure implementation, and the management of large-scale software development, software systems integration, and digitalisation projects that harness the creativity of people, the power of technology, data, and digital tools.
   
 
 🌱 I am currently teaching Information Technology courses in the Certificate, Diploma and Bachelor level, namely, Information Technology Operations, Technical Support and Communications and Technical Writing  
