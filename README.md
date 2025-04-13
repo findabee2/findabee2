@@ -1,4 +1,4 @@
-### Hi, I'm James! 
+### Hi, I'm Josh! 
  
 👋 I'm an Information Technology Educator at the Centre for IT, Wintec in Hamilton, New Zealand, where I teach across Certificate, Diploma, and Degree levels. 
 
