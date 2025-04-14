@@ -4,7 +4,7 @@
 
 🌱 With a wealth of experience in the IT field, I specialise in information systems development, network infrastructure, and digital transformation. Over the years, I've collaborated with professionals, business managers, IT experts, and organisational leaders to create innovative technology solutions that drive efficiency and growth.
 
-I believe in the power of people, technology, and data to foster creativity and solve real-world challenges. I'm passionate about helping teams leverage these elements to achieve impactful results.
+I believe in the power of people, technology, and information to foster creativity and solve real-world challenges. I'm passionate about helping teams leverage these elements to achieve impactful results.
 
 🚀 Whether you're interested in information systems development, integration, or project management, feel free to reach out! Let's explore how we can collaborate to achieve your tech goals. 
  
