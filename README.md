@@ -1,4 +1,4 @@
-### Hi, I'm Josh! 
+### Hi, call me Josh! 
  
 👋 I am an Information Technology Educator at the Centre for IT, Wintec in Hamilton, New Zealand, where I teach across Certificate, Diploma, and Degree levels of Applied Information Technology.
 
