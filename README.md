@@ -2,7 +2,7 @@
  
 👋 I am an Information Technology Educator at the Centre for IT, Wintec in Hamilton, New Zealand, where I teach across Certificate, Diploma, and Degree levels of Applied Information Technology.
 
-🌱 With a wealth of experience in the IT field, I specialise in information systems development, network infrastructure, and digital transformation. 
+🌱 With a wealth of experience in the IT field, I specialise in developing integrated information systems, building reliable network infrastructure, and managing digital transformation projects. 
 
 ✨ Over the years, I successfully collaborated with professionals, business managers, IT experts, and organisational leaders to create innovative technology solutions that drive efficiency and growth.
 
