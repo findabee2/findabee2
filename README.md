@@ -38,8 +38,7 @@ Supply Chain Management
 
 
 ### Industries  
-Aggregates Industry  
-Contract Manufacturing  
+Aggregates    
 e-Commerce  
 Data Management  
 Environmental Risk Management  
