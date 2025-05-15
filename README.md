@@ -67,6 +67,7 @@ Enterprise Asset Management
 Enterprise Requirements Planning  
 Environmental Risk Management  
 Fixed Assets  
+General Ledger System  
 Inventory Management  
 Invoicing  
 Logistics Requirements Planning  
