@@ -55,7 +55,7 @@ Supply Chain and Logistics
 
 
 
-### Applications Built  
+### Applications Built/Maintained  
 Accounts Payable   
 Accounts Receivable  
 Bill of Materials  
