@@ -27,7 +27,7 @@ Inventory Management
 Knowledge Management  
 Logistics  
 Material Requirements Planning  
-Computer Network Engineering
+Computer Network Engineering  
 Project Management (PMI)  
 Retail Management Systems  
 Scrum  
@@ -50,7 +50,8 @@ Knowledge Management
 Manufacturing  
 Packaging Solutions  
 Retail  
-Supply Chain and Logistics
+Supply Chain and Logistics  
+Waste Management
 
 </td><td valign="top" width="33%">
 
