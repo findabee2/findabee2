@@ -75,7 +75,7 @@ Invoicing
 Logistics Requirements Planning  
 Materials Requirement Planning  
 Patient Management  
-Payments  
+Payroll  
 Point of Sale  
 Production Control  
 Project Monitoring  
