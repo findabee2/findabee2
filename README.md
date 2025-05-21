@@ -40,8 +40,8 @@ Supply Chain Management
 
 ### Industries  
 Aggregates    
-e-Commerce  
 Data Management  
+e-Commerce  
 Environmental Risk Management  
 Food and Beverage  
 Government  
@@ -66,7 +66,7 @@ Cash Management
 Direct Deliveries  
 e-Commerce  
 Enterprise Asset Management  
-Enterprise Requirements Planning  
+ERP  
 Environmental Risk Management  
 Fixed Assets  
 General Ledger System  
