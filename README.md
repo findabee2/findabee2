@@ -23,6 +23,7 @@ Development
 Digital Transformation  
 e-Commerce  
 Enterprise Resource Planning  
+Hospital Information System  
 Inventory Management  
 Knowledge Management  
 Logistics  
