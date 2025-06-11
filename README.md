@@ -1,8 +1,8 @@
-### Hi, you can call me Josh.
+### Welcome! I'm Josh.
  
-I am an experienced information technology professional and educator at the Centre for IT at Wintec in Hamilton, New Zealand, where I teach across the Certificate, Diploma, and Degree levels of Applied Information Technology.
+I am an experienced information technology professional and educator. I currently teach at the Centre for IT at Wintec in Hamilton, New Zealand, across the Certificate, Diploma, and Degree levels of Applied Information Technology.
 
-With a wealth of experience in Business and  IT fields, I developed and worked on integrated information systems, built reliable network infrastructure, and managed digital transformation projects. 
+With a wealth of experience in Business and  IT fields, I conducted business analysis, designed and implemented integrated information systems, built reliable network infrastructure, and managed digital transformation projects. 
 
 Over the years, I successfully collaborated with professionals, business managers, IT experts, and organisational leaders to create innovative technology solutions that drive efficiency and growth.
 
