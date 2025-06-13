@@ -53,9 +53,11 @@ I believe in the power of **vision, collaboration, and technology** to solve rea
 - Inventory & Warehouse Management  
 - MRP & Production Control  
 - Sales Orders, POS, Billing, Invoicing  
-- e-Commerce & Quotation Management  
+- e-Commerce
+- Quotation Management  
 - Project Monitoring & Asset Management  
-- Environmental Risk & Patient Management  
+- Environmental Risk Management
+- Hospital Patient Management  
 - Transport Planning & Shipment Tracking  
 - Royalty, Rebate & Commission Systems  
 - Traffic Violations Bureau  
