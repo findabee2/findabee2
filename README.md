@@ -1,137 +1,70 @@
-### Welcome! I'm Josh.
- 
-I am an experienced information technology professional and educator. I currently teach at the Centre for IT at Wintec in Hamilton, New Zealand, across the Certificate, Diploma, and Degree levels of Applied Information Technology.
 
-With a wealth of experience in Business and  IT fields, I conducted business analysis, designed and implemented integrated information systems, built reliable network infrastructure, and managed digital transformation projects. 
+# 👋 About Me
 
-Over the years, I successfully collaborated with professionals, business managers, IT experts, and organisational leaders to create innovative technology solutions that drive efficiency and growth.
+I am an experienced Educator and Information Technology professional with a strong foundation in **Digital Transformation and Enterprise Resource Planning (ERP)**. Currently, I teach at the **Centre for IT** at **Wintec, Hamilton, New Zealand**, across the certificate, diploma, and degree levels in Applied Information Technology. I have more than 20 years experience as an educator.
 
-I believe in the power of vision, the value of people, and in using technology and information to foster creativity and solve real-world challenges. I'm passionate about helping teams leverage these elements to achieve impactful results.
+I have led and contributed to digital transformation initiatives—designing and implementing **integrated enterprise systems** that streamline operations, enhance decision-making, and drive business growth. 
 
-Whether you're interested in information systems development, integration, or project management, feel free to reach out! Let's explore how we can collaborate to achieve your tech goals. 
- 
- <br/>  
+My specialisation lies in **Enterprise Resource Planning (ERP)**, where I built and maintained enterprise applications across finance, supply chain, manufacturing, healthcare, and government sectors. I bring a unique blend of **technical depth, business insight, and stakeholder relationship** to every project I undertake.
 
+I believe in the power of **vision, collaboration, and technology** to solve real-world challenges. Whether you're exploring ERP integration, digital strategy, or systems development, I’m always open to meaningful collaboration.
 
-## Work Experience  
+---
+
+## 💼 Work Experience
+
 <table><tr><td valign="top" width="33%">
 
-
-
-### Skills  
-Development  
-Digital Transformation  
-e-Commerce  
-Enterprise Resource Planning  
-Hospital Information System  
-Inventory Management  
-Knowledge Management  
-Logistics  
-Material Requirements Planning  
-Computer Network Engineering  
-Project Management (PMI)  
-Retail Management Systems  
-Scrum  
-SDLC  
-Supply Chain Management
+### 🔧 Skills  
+- Digital Transformation  
+- Enterprise Resource Planning  
+- Project Management (PMI, Scrum)  
+- SDLC  
+- Development  
+- e-Commerce  
+- Hospital Information Systems  
+- Inventory & Logistics Management  
+- Material Requirements Planning  
+- Computer Network Engineering  
+- Knowledge Management  
+- Retail Management Systems  
+- Supply Chain Management  
 
 </td><td valign="top" width="33%">
 
-
-
-### Industries  
-Aggregates    
-Data Management  
-e-Commerce  
-Environmental Risk Management  
-Food and Beverage  
-Government  
-Hospital and Healthcare  
-Knowledge Management  
-Manufacturing  
-Packaging Solutions  
-Retail  
-Supply Chain and Logistics  
-Waste Management
+### 🏭 Industries  
+- Manufacturing  
+- Retail  
+- Government  
+- Hospital & Healthcare  
+- Food & Beverage  
+- Aggregates  
+- e-Commerce  
+- Environmental Risk Management  
+- Supply Chain & Logistics  
+- Waste Management  
+- Data & Knowledge Management  
+- Packaging Solutions  
 
 </td><td valign="top" width="33%">
 
+### 🛠️ Systems Built & Maintained  
+- ERP Core Modules (GL, AP, AR, FA, Payroll)  
+- Inventory & Warehouse Management  
+- MRP & Production Control  
+- Sales Orders, POS, Billing, Invoicing  
+- e-Commerce & Quotation Management  
+- Project Monitoring & Asset Management  
+- Environmental Risk & Patient Management  
+- Transport Planning & Shipment Tracking  
+- Royalty, Rebate & Commission Systems  
+- Traffic Violations Bureau  
+- Store Inventory & Supply Chain Systems  
 
+</td></tr></table>
 
-### Apps Built/Maintained  
-Accounts Payable   
-Accounts Receivable  
-Bill of Materials  
-Billing  
-Cash Management  
-Direct Deliveries  
-e-Commerce  
-Enterprise Asset Management  
-ERP  
-Environmental Risk Management  
-Fixed Assets  
-General Ledger System  
-Inventory Management  
-Invoicing  
-Logistics Requirements Planning  
-Materials Requirement Planning  
-Patient Management  
-Payroll  
-Point of Sale  
-Production Control  
-Project Monitoring  
-Purchase Requesition Management  
-Quotation Management  
-Rebate Management  
-Routing  
-Royalty Management  
-Sales Commissions  
-Sales Orders  
-Service Job Costing  
-Shipment Tracking and Costing  
-Store Inventory Management  
-Supply Chain Management  
-Traffic Violations Bureau  
-Transport Planning  
-Warehouse Management  
+---
 
-</td></tr></table>  
+## 🤝 Let’s Connect
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/findabee2/findabee2" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-a-a85138336/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=findabee2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
+If you are working on **digital transformation**, **ERP implementation**, or **enterprise systems integration**, I would love to hear from you. Let’s explore how we can collaborate to build impactful, future-ready solutions.
