@@ -3,7 +3,7 @@
 
 I am an experienced Educator and Information Technology professional with a strong foundation in **Digital Transformation and Enterprise Resource Planning (ERP)**. Currently, I teach at the **Centre for IT** at **Wintec, Hamilton, New Zealand**, across the certificate, diploma, and degree levels in Applied Information Technology. I have more than 20 years experience as an educator.
 
-I have led and contributed to digital transformation initiatives—designing and implementing **integrated enterprise systems** that streamline operations, enhance decision-making, and drive business growth. 
+I have led and contributed to digital transformation initiatives—designing and implementing **integrated enterprise systems** that streamline operations, enhance decision-making, and drive business growth as well as selecting and implementing the **best of breed** solution that best matches the strategies of the organisation.
 
 My specialisation lies in **Enterprise Resource Planning (ERP)**, where I built and maintained enterprise applications across finance, supply chain, manufacturing, healthcare, and government sectors. I bring a unique blend of **technical depth, business insight, and stakeholder relationship** to every project I undertake.
 
