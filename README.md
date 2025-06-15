@@ -7,7 +7,7 @@ I have led and contributed to digital transformation initiatives—designing and
 
 My specialisation lies in **Enterprise Resource Planning (ERP)**, where I built and maintained enterprise applications across finance, supply chain, manufacturing, healthcare, and government sectors. I bring a unique blend of **technical depth, strategic business insight, and stakeholder focused governance** to every project I undertake.
 
-I believe in the power of **vision, collaboration, and technology** to solve real-world challenges. Whether you're establishing digitisation, or optimising digitalisation or overhauling your organisation through digital transformation, let me know as I am always open to meaningful collaboration.
+I believe in the power of vision, the primacy of collaboration, and the effectiveness of technology to solve real-world challenges. 
 
 ---
 
@@ -69,4 +69,4 @@ I believe in the power of **vision, collaboration, and technology** to solve rea
 
 ## 🤝 Let’s Connect
 
-If you are working on **digital transformation**, **ERP implementation**, or **enterprise systems integration**, I would love to hear from you. Let’s explore how we can collaborate to build impactful, future-ready solutions.
+Whether you're establishing **digitisation**, or optimising **digitalisation** or overhauling your organisation through **digital transformation**, I would love to hear from you. Let’s explore how we can collaborate to build impactful, future-ready solutions.
