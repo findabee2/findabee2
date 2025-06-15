@@ -5,9 +5,9 @@ I am an experienced Educator and Information Technology professional with a stro
 
 I have led and contributed to digital transformation initiatives—designing and implementing **integrated enterprise systems** that streamline operations, enhance decision-making, and drive business growth as well as selecting and implementing the **best of breed** solution that best matches the strategies of the organisation.
 
-My specialisation lies in **Enterprise Resource Planning (ERP)**, where I built and maintained enterprise applications across finance, supply chain, manufacturing, healthcare, and government sectors. I bring a unique blend of **technical depth, business insight, and stakeholder relationship** to every project I undertake.
+My specialisation lies in **Enterprise Resource Planning (ERP)**, where I built and maintained enterprise applications across finance, supply chain, manufacturing, healthcare, and government sectors. I bring a unique blend of **technical depth, strategic business insight, and stakeholder focused governance** to every project I undertake.
 
-I believe in the power of **vision, collaboration, and technology** to solve real-world challenges. Whether you're exploring ERP integration, digital strategy, or systems development, I’m always open to meaningful collaboration.
+I believe in the power of **vision, collaboration, and technology** to solve real-world challenges. Whether you're exploring digitisation, digitalisation or digital transformation, I’m always open to meaningful collaboration.
 
 ---
 
