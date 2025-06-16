@@ -49,7 +49,8 @@ I believe in the power of vision, the primacy of collaboration, and the effectiv
 </td><td valign="top" width="33%">
 
 ### 🛠️ Systems Built & Maintained  
-- ERP Core Modules (GL, AP, AR, FA, Payroll)  
+- Enterprise Resource Planning
+- Financial: GL, AP, AR, FA, Payroll 
 - Inventory & Warehouse Management  
 - MRP & Production Control  
 - Sales Orders, POS, Billing, Invoicing  
