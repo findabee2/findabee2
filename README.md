@@ -59,7 +59,7 @@ I believe in the power of vision, the primacy of collaboration, and the effectiv
 - e-Commerce
 - Quotation Management  
 - Project Monitoring & Asset Management  
-- Environmental Risk Management
+- Real Property Tax Assessment
 - Hospital Patient Management  
 - Transport Planning & Shipment Tracking  
 - Royalty, Rebate & Commission Systems  
