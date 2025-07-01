@@ -1,7 +1,7 @@
 
 # 👋 About Me
 
-I am an experienced Information Technology professional with a strong foundation in **Digital Transformation and Enterprise Resource Planning (ERP)**. And as a seasoned educator, I currently teach at the **Centre for IT** at **Wintec, Hamilton, New Zealand**, across the certificate, diploma, and degree levels in Applied Information Technology. I have more than 20 years experience as an educator.
+I am an experienced Information Technology professional with a strong foundation in **Digital Transformation and Enterprise Resource Planning (ERP)**. Morover, as a seasoned educator, I currently teach at the **Centre for IT** at **Wintec, Hamilton, New Zealand**, across the certificate, diploma, and degree levels in Applied Information Technology. I have more than 20 years experience as an educator.
 
 I have led and contributed to digital transformation initiatives—designing and implementing **integrated enterprise systems** that streamline operations, enhance decision-making, and drive business growth as well as selecting and implementing the **best of breed** solution that best matches the strategies of the organisation.
 
